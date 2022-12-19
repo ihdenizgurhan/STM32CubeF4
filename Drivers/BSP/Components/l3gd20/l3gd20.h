@@ -98,8 +98,8 @@
 /**************************** END REGISTER MAPPING  ***************************/
 /******************************************************************************/
 
-#define I_AM_L3GD20                 ((uint8_t)0xD4)
-#define I_AM_L3GD20_TR              ((uint8_t)0xD5)
+#define I_AM_L3GD20                 ((uint8_t)0xD3)
+#define I_AM_L3GD20_TR              ((uint8_t)0xD4)
 
 /** @defgroup Power_Mode_selection 
   * @{
